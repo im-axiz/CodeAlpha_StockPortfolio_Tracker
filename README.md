@@ -1,5 +1,5 @@
 # CodeAlpha_StockPortfolio_Tracker
-Project Description The Stock Portfolio Tracker is a Python application that allows users to manage and track their stock investments. This tool provides functionality to add and remove stocks and to track the current value of the portfolio.
+**Project Description:** The Stock Portfolio Tracker is a Python application that allows users to manage and track their stock investments. This tool provides functionality to add and remove stocks and to track the current value of the portfolio.
 # Stock Portfolio Tracker
 
 ## Description
